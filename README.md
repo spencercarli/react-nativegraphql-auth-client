@@ -1,3 +1,10 @@
+Demo React Native application for a tutorial on doing authentication with React Native & Apollo.
+
+- [Part 1: GraphQL Authentication with React Native & Apollo](https://medium.com/handlebar-labs/graphql-authentication-with-react-native-apollo-part-1-2-9613aacd80b3)
+- [Part 2: GraphQL Authentication with React Native & Apollo](https://medium.com/handlebar-labs/graphql-authentication-with-react-native-apollo-part-2-2-13ac8c362113)
+
+---
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
